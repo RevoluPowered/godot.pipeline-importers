@@ -1,4 +1,4 @@
-# godot.ci-pipeline-importers
+# godot.pipeline-importers
 Godot manual importer testing - practical use case tests
 
 The goal is to provide a single version of the truth for the godot importers, we will provide standard supported formats for each file, and require that they work in at least one importer, as importers are fixed we can update their status
