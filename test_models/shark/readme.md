@@ -6,5 +6,3 @@ There are keyframed animations and the blender animation works.
 The mesh has been triangulated, and normals are corrected.
 
 There are purposefully holes on the back of the rear fin.
-
-License: single license for test model repository only - owner Ross A Campbell
