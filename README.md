@@ -2,7 +2,7 @@
 Godot manual importer testing - practical use case tests
 
 # Quality control
-any importer should work the way a .png importer works, if the file is written by another program it should open, provided the file is not corrupted and valid, and can be re-opened in the package it was made by.
+Any importer should work the way a .png importer works, if the file is written by another program it should open, provided the file is not corrupted and valid, and can be re-opened in the package it was made by.
 
 The goal is to provide a single version of the truth for the godot importers, we will provide standard supported formats for each file, and require that they work in at least one importer, as importers are fixed we can update their status
 
