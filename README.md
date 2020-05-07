@@ -22,3 +22,5 @@ If a file was made in maya .mb or .ma must be provided.
 If a file was made in blender the .blend must be provided.
 
 
+# Licensing
+The license of your model can be provided in a sub folder, and it can explicitly override the MIT licensing. Please be aware submitting models which are not your own will not be accepted.
