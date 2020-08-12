@@ -16,7 +16,7 @@ The goal overall one day will be to automate this testing for now, manual checki
 
 | Model        	| FBX                   	| GLTF2                      	| Collada              	| escn                 	| Issue tracker 	|
 |--------------	|-----------------------	|----------------------------	|----------------------	|----------------------	|---------------	|
-| shark.blend  	| failing - mesh broken 	| working                   	| failing - animations 	| failing - animations 	| https://github.com/KhronosGroup/glTF-Blender-IO/issues/791	|
+| shark.blend  	| fixed in new FBX importer	| working                   	| failing - animations 	| failing - animations 	| https://github.com/KhronosGroup/glTF-Blender-IO/issues/791	|
 | end of table 	|                       	|                            	|                      	|                      	|               	|
 |              	|                       	|                            	|                      	|                      	|               	|
 
